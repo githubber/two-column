@@ -1,11 +1,11 @@
 ## Two Column
 
-Two Column is a blank Ghost theme by BlankThemes.com. Use it to create your own Ghost theme.
+Two Column is a blank Ghost theme by Precode.io. Use it to create your own Ghost theme.
 
 ## Copyright & License
 
-Designed and developed by BlankThemes.com.
-Copyright (c) 2014 BlankThemes.com - Released under the GPL License.
+Designed and developed by Precode.io.
+Copyright (c) 2014 Precode.io - Released under the GPL License.
 
 ## How to install Two Column
 
