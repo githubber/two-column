@@ -1,0 +1,18 @@
+/*
+Theme Name: Two Column
+Layout: Sidebar-Content
+*/
+
+.content-area {
+	float: right;
+	margin: 0 0 0 -30%;
+	width: 100%;
+}
+.site-main {
+	margin: 0 0 0 30%;
+}
+.site-content .widget-area {
+	float: left;
+	overflow: hidden;
+	width: 25%;
+}
